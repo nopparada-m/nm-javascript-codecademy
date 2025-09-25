@@ -1,2 +1,2 @@
 # nm-javascript-codecademy
-Javascript projects from Codecademy JS course
+Javascript projects from https://www.codecademy.com
